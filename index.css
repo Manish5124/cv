@@ -1,0 +1,21 @@
+body{
+    background-color:#f2f1f1;
+    padding: 1%;
+}
+#profile{
+    padding: 12px;
+    border-radius: 50%;
+}
+hr{
+    border-top: 2px solid black;
+ }
+
+ table,th,td{
+     padding: 5px;
+    /* border: 2px solid rgb(218, 11, 11); */
+ }
+ 
+ /* 
+#begin{
+   
+} */
